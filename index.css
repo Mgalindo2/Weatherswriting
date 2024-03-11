@@ -1,0 +1,43 @@
+ul{
+    list-style-type:none;
+    margin-left:300px;
+    text-align:center;
+    overflow:hidden;
+}
+ul li a{
+    text-decoration:none;
+    color:black;
+    background-color:silver;
+    display:block;
+    padding: 10px 100px;
+    
+}
+ul li a:hover{
+    background-color:antiquewhite;
+    color:silver;
+}
+.bar li{
+    float:left;
+}
+div.int{
+    text-align:center;
+}
+div.pic{
+    text-align:center;
+}
+img.pic{
+    width:200px;
+    height:200px;
+    border-style:double;
+    border-color:aqua;
+    border-width:8px;
+    padding:125px;
+}
+fieldset.dis{
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:65px;
+}
+span.b{
+    font-weight:bold;
+}
